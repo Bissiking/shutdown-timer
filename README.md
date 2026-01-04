@@ -48,7 +48,6 @@ Assure-toi d’avoir sauvegardé ton travail.
 ## 📸 Aperçu
 - Fenêtre de configuration avec raccourcis rapides
 - Fenêtre de compte à rebours moderne, toujours visible
-*(Ajoute des screenshots ici si tu veux)*
 
 ## 🧩 Personnalisation
 - Modifier $defaultMinutes pour changer la valeur par défaut
