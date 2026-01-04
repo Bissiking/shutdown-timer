@@ -39,8 +39,8 @@ Aucune dépendance externe.
    ```powershell Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned && .\shutdown-timer.ps1 ```
 
 ## ⚠️ Sécurité
-Le script utilise la commande Windows native :
-```powershell shutdown /s /t 0 /f```
+Le script utilise la commande Powershell native :
+```powershell Stop-Computer -Force```
 
 ➡️ Cela force la fermeture des applications ouvertes.
 Assure-toi d’avoir sauvegardé ton travail.
